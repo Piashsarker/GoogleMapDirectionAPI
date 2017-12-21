@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GoogleMapsDirection</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="travel_time">Travel  Time</string>
+    <string name="travel_distance">Travel Distance:</string>
+    <string name="travel_mode">Travel Mode</string>
+    <string name="walking">Walking</string>
+    <string name="bi_cylce">Bicylce</string>
+    <string name="driving">Driving</string>
+    <string name="loading">Loading...</string>
+</resources>
